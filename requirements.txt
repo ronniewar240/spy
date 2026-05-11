@@ -1,6 +1,7 @@
-requests>=2.31.0
-pandas>=2.0.0
-matplotlib>=3.7.0
-python-dotenv>=1.0.0
-streamlit>=1.35.0
-ibapi>=9.81.1.post1
+streamlit>=1.36
+pandas>=2.0
+plotly>=5.20
+openpyxl>=3.1
+Flask>=3.0
+Werkzeug>=3.0
+dropbox>=12.0
